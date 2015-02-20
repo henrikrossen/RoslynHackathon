@@ -1,0 +1,4 @@
+RoslynHackation
+===============
+
+RoslynHackathon.AlphanumericTypeNames
